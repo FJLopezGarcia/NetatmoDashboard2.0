@@ -16,6 +16,11 @@ export class AppComponent {
       icon: 'home'
     },
     {
+      title: 'Netatmo',
+      url: '/netatmo',
+      icon: 'home'
+    },
+    {
       title: 'List',
       url: '/list',
       icon: 'list'
